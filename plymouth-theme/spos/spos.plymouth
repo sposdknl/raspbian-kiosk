@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=spos
+Description=SPOS Splash
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/spos
+ScriptFile=/usr/share/plymouth/themes/spos/spos.script
